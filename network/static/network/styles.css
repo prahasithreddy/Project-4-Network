@@ -1,0 +1,13 @@
+textarea {
+    min-height: 400px;
+  }
+  
+body {
+    background: #84a59d;
+    padding-top: 3vh;
+    padding-left: 10vh;
+    padding-right: 10vh;
+      }
+.list-group-item{
+    background: #f7ede2;
+}
